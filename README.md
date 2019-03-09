@@ -6,4 +6,6 @@
 
 [API Rick and Morty](https://rickandmortyapi.com/)
 
+[Bulma](https://bulma.io/)
+
 <i>This project is licensed under the terms of the MIT license.</i>
